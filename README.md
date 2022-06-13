@@ -75,7 +75,7 @@ This entire TDD workflow is often explained as the repetition of "Red, Green, Re
 1. Clone this repo to your projects folder following the "Getting Started" directions. Take a moment to orient yourself with the test runner, the existing tests, and the implementation inside of `code.js`.
 
 1. Once you're setup and comfortable, go to `code.js` and change the name of the `helloWorld` function to `hello`. Then refresh `report.html` in your browser.
-    - What do you notice about the test results?
+    - What do you notice about the test results? *** I notice that I am hungry
     - What are some ways you think we could get the tests to turn green again?
     - Set the function name in `code.js` back to `helloWorld` and re-run the tests.
     
